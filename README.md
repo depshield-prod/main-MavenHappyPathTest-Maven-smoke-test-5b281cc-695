@@ -1,2 +1,3 @@
 # main-MavenHappyPathTest-Maven-smoke-test-5b281cc-695
-the description
+
+![depshield](https://depshield.sonatype.org/badges/depshield-prod/main-MavenHappyPathTest-Maven-smoke-test-5b281cc-695/depshield.svg)
